@@ -1,0 +1,11 @@
+---
+spring:
+  database1:
+    port: 33006
+    username: root
+    password: root
+  database1:
+    port: 33006
+    username: root
+    password: root
+  
