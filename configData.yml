@@ -1,7 +1,7 @@
 ---
 spring:
   database1:
-    port: 33006
+    port: 33010
     username: root
     password: root
   database2:
